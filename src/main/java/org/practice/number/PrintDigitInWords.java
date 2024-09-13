@@ -1,4 +1,4 @@
-package org.practice.array;
+package org.practice.number;
 
 public class PrintDigitInWords {
     static String[] numbers = new String[] {"Zero", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine"};
