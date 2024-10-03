@@ -4,7 +4,7 @@ public class Fibonacci {
     public static void main(String[] args) {
         int range = 2500;
         System.out.println("Fibonacci sequence till 1000 as below");
-        int firstNumber = 1;
+        int firstNumber = 0;
         int secondNumber = 1;
         System.out.print(firstNumber);
         printFiboacci(firstNumber, secondNumber, range);
